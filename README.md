@@ -15,5 +15,3 @@ if (isWonderful){
 
 
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=emirhantasci&show_icons=true&theme=radical)
-
