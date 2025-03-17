@@ -2,7 +2,7 @@
 
 # Hello. I'm Emirhan Taşçı. 
 
-**I am a _Backend Developer_. I usually use C#, but you can also see repos for Python, Angular and all other languages ​​here.**
+**I am a _Software Developer_. I usually use C#, but you can also see repos for another languages.**
 
  ```c#
 if (isWonderful){
